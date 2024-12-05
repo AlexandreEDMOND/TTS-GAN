@@ -1,0 +1,6 @@
+
+- Peu / Beaucoup de pics : Max plus de 0.075
+
+- Bruit : Max entre 0.04 et 0.075
+
+- Robot : Max inf à 0.04
